@@ -26,6 +26,12 @@ html, body {
     border-radius: 20px;
     height: 40px;
 }
+.header ul li:hover {
+    background-color: rgb(55, 43, 43);   
+}
+.header ul li a:hover {
+    color: wheat;
+}
 .header ul li a {
     text-decoration: none;
     color: black;
